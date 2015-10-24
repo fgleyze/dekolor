@@ -195,6 +195,11 @@ a:focus {
 	margin-bottom: 80px;
 }
 
+.mtb--small {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
 .mb {
 	margin-bottom: 60px;
 }
