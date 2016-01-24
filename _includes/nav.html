@@ -13,6 +13,7 @@
     <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
         <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">INICIO</a></li>
+        <li {% if page.title == "Portfolio" %}class="active"{% endif %}><a href="{{"/empresas/" | prepend: site.baseurl }}">EMPRESAS</a></li>
         <li {% if page.title == "Portfolio" %}class="active"{% endif %}><a href="{{"/productos/" | prepend: site.baseurl }}">PRODUCTOS</a></li>
         <li {% if page.title == "Portfolio" %}class="active"{% endif %}><a href="{{"/realizaciones/" | prepend: site.baseurl }}">REALIZACIONES</a></li>
         <li {% if page.title == "About" %}class="active"{% endif %}><a href="{{"/empresa/" | prepend: site.baseurl }}">NUESTRA EMPRESA</a></li>
