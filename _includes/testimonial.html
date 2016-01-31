@@ -1,13 +1,15 @@
-<div id="twrap">
-    <div id="twrapback"></div>
+{% for testimonial in site.categories['testimonials'] %}
+<div class="testimonial">
+    <div class="testimonial-bg"></div>
     <div class="container centered">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
             <i class="fa fa-comment-o"></i>
-            <p>{{ site.testimonial.message }}</p>
-            <h4><br/>{{ site.testimonial.author }}</h4>
-            <p>{{ site.testimonial.position }}</p>
+            <p>{{ testimonial.message }}</p>
+            <h4><br/>{{ testimonial.name }}</h4>
+            <p>{{ testimonial.position }}</p>
             </div>
-        </div><! --/row -->
-    </div><! --/container -->
-</div><! --/twrap -->
+        </div>
+    </div>
+</div>
+{% endfor %}

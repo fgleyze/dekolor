@@ -1,0 +1,30 @@
+---
+layout: producto
+title:  "SERIE TRIDENT"
+categories:
+- dynamo
+company: Dynamo Playgrounds
+date:   2014-04-25 00:23:00
+edades: 3-8 años Y 6-12 años
+altura: desde 3.90m a 5.70m
+caida_libre: desde 0.51m a 0.85m
+superficie: desde 13.30m a 22.10m de diametro
+img: TRIDENT.jpg
+carousel:
+- DX-301.jpg
+- DX-302.jpg
+- DX-303.jpg
+- DX-304.jpg
+---
+####SERIE TRIDENT
+La serie Trident es una estructura para trepar de estilo triple pirámide con tres redes piramidales que se unieron . Esta estructura está hecha de cables de acero de poliamida cargada con protector UV. 
+Dynamo utiliza el contenido de acero más alto en la industria, que incluye un núcleo de alambre de acero en nuestras cuerdas marginales, para garantizar una larga vida útil de los juegos y la máxima seguridad para los niños. 
+Estos juegos ayudan el movimiento, el equilibrio, el ejercicio y la diversión en el patio de recreo.
+
+
+####Diferentes referencias
+En esta serie hay 4 referencias diferentes:
+Trident Regular
+Trident Medium
+Trident Large
+Trident Dreamcatcher

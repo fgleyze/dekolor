@@ -1,0 +1,19 @@
+---
+layout: producto
+title:  "QUAD PODS"
+categories:
+- dynamo
+company: Dynamo Playgrounds
+date:   2014-04-25 00:04:01
+edades: 6-12 años
+altura: 2.74m
+caida_libre: 1.00m
+superficie: 4.10m de diametro
+img: QUAD.jpg
+carousel:
+- DX-2400.jpg
+---
+####QUAD PODS
+El Quad™ Pods asegurará un nuevo giro en el juego interactivo. 
+Los usuarios pueden empujar, caminar, correr, sentarse, de pie o tenderse mientras gira en la plataforma grande, tomar un paseo en una de los 4 capsulas de spinning o subir y alcanzar hacia fuera para mayores aventuras. 
+El sistema de rodamiento especial de Dynamo controla la velocidad de rotación de 360 ° de manera que los niños puedan disfrutar al mismo tiempo garantiza la seguridad completa de los usuarios y la estructura.

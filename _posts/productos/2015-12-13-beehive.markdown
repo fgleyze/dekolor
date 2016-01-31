@@ -1,0 +1,19 @@
+---
+layout: producto
+title:  "BEEHIVE"
+categories:
+- dynamo
+company: Dynamo Playgrounds
+date:   2014-04-25 00:11:00
+edades: 6-12 años 
+altura: 4.25m
+caida_libre: 1.41m
+superficie: 6.00m de diametro
+img: BEEHIVE.jpg
+carousel:
+- DC-804.jpg
+---
+####BEEHIVE
+las redes con marco del Dynamo son el complemento perfecto para cualquier diseño de juegos. estos juegos son el lugar ideal para ejercitar el equilibrio y la coordinación mientras luchan contra alienígenas intergalácticos o subir las paredes de un gran cañón. Como todo lo que construye Dynamo, estas estructuras permitirán a generaciones de aventureros completar sus misiones.
+La referencia Behive es una estructura para escalar hecha de cables de acero de poliamida cargada con protector UV. Dynamo utiliza el más alto contenido de acero en la industria para garantizar una larga vida útil de los juegos y la máxima seguridad para los niños. Estos juegos ayudan a manejar el movimiento, el equilibrio, el ejercicio y la diversión nuevamente dentro del patio de recreo.
+

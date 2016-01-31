@@ -1,0 +1,19 @@
+---
+layout: producto
+title:  "MINI TOP"
+categories:
+- dynamo
+company: Dynamo Playgrounds
+date:   2014-04-25 00:02:00
+edades: 2-6 años
+altura: 3.03m
+caida_libre: 1.80m
+superficie: 2.00m de diametro
+img: MINI TOP.jpg
+carousel:
+- DX-1400.jpg
+---
+####MINI TOP
+El Mini Top es otro carrusel del siglo 21. El Mini Top introduce una alternativa para la serie Apollo™. El sistema de rodamiento especial de Dynamo controla la velocidad de rotación de 360 ° de manera que los niños puedan disfrutar al mismo tiempo garantiza la seguridad completa de los usuarios y la estructura. 
+Las cuerdas de nylon suaves reforzadas con acero proporcionan un montón de lugares para que los niños se cuelguen, y el piso sólido proporciona un lugar seguro para los niños de todas las edades o habilidades puedan unirse a la diversión. 
+Estos juegos ayudan a traer el movimiento, el equilibrio, el ejercicio y la diversión en el patio de recreo.

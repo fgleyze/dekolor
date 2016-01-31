@@ -1,0 +1,12 @@
+<div class="logo-companies">
+    <div class="container">
+        <div class="row centered">
+            <h3 class="logo-companies-title">NUESTRAS EMPRESAS</h3>
+            {% for company in site.companies %}
+                <div class="col-lg-4 col-md-4 l-sm-4">
+                    <img src="{{ "/assets/img/companies/" | prepend: site.baseurl }}{{ company.img }}" class="img-responsive logo-companies-img">
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

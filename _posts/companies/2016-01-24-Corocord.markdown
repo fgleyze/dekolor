@@ -3,7 +3,7 @@ layout: productos
 title: "Corocord"
 date: 2016-01-24 00:00:00
 categories:
-- companies
+- productos
 img: COROCORD.jpg
 company: Corocord
 url: corocord

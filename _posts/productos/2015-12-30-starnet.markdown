@@ -1,0 +1,30 @@
+---
+layout: producto
+title:  "SERIE STARNET"
+categories:
+- dynamo
+company: Dynamo Playgrounds
+date:   2014-04-25 00:28:00
+edades: 3-8 años Y 5-12 años
+altura: desde 3.90m a 5.70m
+caida_libre: desde 0.51m a 0.85m
+superficie: desde 7.42m a 13.27m de diametro
+img: STARNET.jpg
+carousel:
+- DX-5101.jpg
+- DX-5102.jpg
+- DX-5201.jpg
+- DX-5304.jpg
+---
+####SERIE STARNET
+La serie StarNet es una estructura para trepar de estilo pirámide de 5 caras.
+Esta estructura está hecha de cables de acero de poliamida cargada con protector UV. 
+Dynamo utiliza el contenido de acero más alto en la industria, que incluye un núcleo de alambre de acero en nuestras cuerdas marginales, para garantizar una larga vida útil de los juegos y la máxima seguridad para los niños. 
+Estos juegos ayudan el movimiento, el equilibrio, el ejercicio y la diversión en el patio de recreo.
+
+####Diferentes referencias
+En esta serie hay 4 referencias diferentes:
+Starnet Nova
+Starnet Supernova
+Starnet Binary Star
+Starnet Polaris

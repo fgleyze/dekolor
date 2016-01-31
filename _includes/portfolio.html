@@ -2,10 +2,10 @@
     <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
-            {% for project in site.categories['project'] limit:include.limit %}
+            {% for project in site.categories[page.categorie] limit:include.limit %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
-                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
+                    <img src="{{ "/assets/img/productos/" | prepend: site.baseurl }}{{ project.img }}" alt="">
                         <div class="he-view">
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>

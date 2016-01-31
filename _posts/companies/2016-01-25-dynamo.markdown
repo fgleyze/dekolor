@@ -3,7 +3,7 @@ layout: productos
 title: "Dynamo Playgrounds"
 date: 2016-01-25 00:00:00
 categories:
-- companies
+- productos
 img: dynamo_playgrounds.jpg
 company: Dynamo Playgrounds
 url: dynamo

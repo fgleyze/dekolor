@@ -1,0 +1,20 @@
+---
+layout: producto
+title:  "ALLEGO"
+categories:
+- dynamo
+company: Dynamo Playgrounds
+date:   2014-04-25 00:03:00
+edades: 5-12 años
+altura: 3.32m
+caida_libre: 2.12m
+superficie: 3.30m de diametro
+img: ALLEGRO.jpg
+carousel:
+- DX-2200.jpg
+---
+####ALLEGO
+El Allegro combina la emoción del carrusel con la emoción de un paseo en globo aerostático. 
+El sistema de rodamiento especial de Dynamo controla la velocidad de rotación de 360 ° de manera que los niños puedan disfrutar al mismo tiempo garantiza la seguridad completa de los usuarios y la estructura, mientras que la forma de cesta del globo de aire caliente les da la emoción de ver el mundo pasar por debajo de ellos .
+Las cuerdas de nylon suaves reforzadas con acero proporcionan un montón de lugares para que los niños se cuelguen, y el piso sólido proporciona un lugar seguro para los niños de todas las edades o habilidades puedan unirse a la diversión. 
+Estos juegos ayudan a traer el movimiento, el equilibrio, el ejercicio y la diversión en el patio de recreo.

@@ -4,12 +4,20 @@ title: Productos
 permalink: /productos/
 ---
 
-<div class="container mtb--small">
+<div class="container mtb">
     <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 centered">
-            <h2>We work with world class compagnies. Here is a selection of our best products.</h2>
-            <br>
-            <div class="hline"></div>
-        </div>
-    </div>
+
+        <div class="col-lg-8">
+
+            {% for companies in site.categories['productos'] %}
+                {{ companies.company }}
+                <a href="{{ companies.url | prepend: site.baseurl }}">
+                    <img class="img-responsive" src="{{ "/assets/img/companies/" | prepend: site.baseurl }}{{ companies.img }}">
+                </a>
+                <div class="spacing"></div>
+            {% endfor %}
+
+        </div><! --/col-lg-8 -->
+
+    </div><! --/row -->
 </div><! --/container -->
