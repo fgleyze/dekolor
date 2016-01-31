@@ -157,39 +157,6 @@ a:focus {
   border-color: {{ site.colors.primary }};
 }
 
-.dmbutton:hover,
-.dmbutton:active,
-.dmbutton:focus{
-	color: #ffffff;
-	background-color: #222222;
-	border-color: #ffffff;
-}
-.dmbutton {
-	background:rgba(0, 0, 0, 0);
-	border: 1px solid #ffffff;
-	color: #ffffff;
-	-webkit-border-radius: 2px;
-	border-radius: 2px;
-	padding-top: 1.025rem;
-	padding-right: 2.25rem;
-	letter-spacing:0.85px;
-	padding-bottom: 1.0875rem;
-	padding-left: 2.25rem;
-	font-size: 1.55rem;
-	cursor: pointer;
-	font-weight: normal;
-	line-height: normal;
-	margin: 0 0 1.25rem;
-	text-decoration: none;
-	text-align: center;
-	display: inline-block;
-	-webkit-transition: background-color 300ms ease-out;
-	-moz-transition: background-color 300ms ease-out;
-	transition: background-color 300ms ease-out;
-	-webkit-appearance: none;
-	font-weight: normal !important;
-}
-
 .mtb {
 	margin-top: 80px;
 	margin-bottom: 80px;
@@ -243,10 +210,9 @@ a:focus {
 }
 
 
-.portfolio-item .title:before {border-radius:0; display:none}
+.portfolio-item .title:before {border-radius:0; display:none;height: 300px;}
 .portfolio-item p {margin:0px 0 30px;}
 .portfolio-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
-
 
 .tpl6 h3
 {
@@ -255,12 +221,7 @@ a:focus {
 	padding:40px 5px 0;
 	font-size:16px;
 	text-transform:uppercase;
-}
-.tpl6 .dmbutton
-{
-	display:inline-block;
-	margin:30px 5px 20px 5px;
-	font-size:13px;
+	height: 300px;
 }
 
 .tpl6 .bg
@@ -549,4 +510,12 @@ a.anchor{
 
 .logo-companies-img {
 	margin: auto;
+}
+
+/* PORTFOLIO */
+
+.portfolio {
+	background-size: cover;
+	width: 300px;
+	height: 200px;
 }
