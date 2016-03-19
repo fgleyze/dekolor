@@ -8,9 +8,9 @@ permalink: /productos/
     <div class="row">
         {% for companies in site.categories['productos'] %}
         <div class="col-lg-4">
-            {{ companies.company }}
-            <a href="{{ companies.url | prepend: site.baseurl }}">
-                <img class="img-responsive" src="{{ "/assets/img/companies/" | prepend: site.baseurl }}{{ companies.img }}">
+            <a href="{{ companies.url | prepend: site.baseurl }}" class="company-link">
+                <div class="img-responsive company-img" style="background-image:url('{{ "/assets/img/companies/" | prepend: site.baseurl }}{{ companies.img }}')"></div>
+                <p class="company-text">{{ companies.company }}</p>
             </a>
         </div>
         {% endfor %}

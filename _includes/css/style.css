@@ -519,3 +519,23 @@ a.anchor{
 	width: 300px;
 	height: 200px;
 }
+
+/* PRODUCTOS */
+
+.company-link:hover {
+	display: block;
+	opacity: 0.7;
+}
+
+.company-img {
+	width: 100%;
+	height: 300px;
+	background-size: cover;
+}
+
+.company-text {
+	text-align: center;
+	font-size: 2rem;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
