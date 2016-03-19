@@ -6,6 +6,5 @@ categories:
 - productos
 img: dynamo_playgrounds.jpg
 company: Dynamo Playgrounds
-url: dynamo
 categorie: dynamo
 ---

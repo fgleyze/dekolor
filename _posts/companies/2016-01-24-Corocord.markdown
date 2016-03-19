@@ -6,6 +6,5 @@ categories:
 - productos
 img: COROCORD.jpg
 company: Corocord
-url: corocord
 categorie: corocord
 ---

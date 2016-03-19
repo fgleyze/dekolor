@@ -6,6 +6,5 @@ categories:
 - productos
 img: RHINO.jpg
 company: Rhino
-url: rhino
 categorie: rhino
 ---
