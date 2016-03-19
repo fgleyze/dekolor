@@ -1,21 +1,21 @@
-<div class="container">
+<div class="container mt mb">
     <div class="row">
         {% for project in site.categories[page.categorie] limit:include.limit %}
         <div class="col-md-3">
-        <a href="{{  project.url | prepend: site.baseurl }}">
-            <div class="portfolio-item graphic-design">
-                <div class="portfolio he-wrap tpl6" style="background-image:url('{{"/assets/img/productos/" | prepend: site.baseurl }}{{ project.img }}')">
-                    <div class="he-view">
-                        <div class="bg a0" data-animate="fadeIn">
-                            <h3 class="a1" data-animate="fadeInDown">
-                                {{ project.title }}
-                                <i class="fa fa-search"></i>
-                            </h3>
-                        </div>
-                    </div>     
+            <a href="{{  project.url | prepend: site.baseurl }}">
+                <div class="portfolio-item graphic-design">
+                    <div class="portfolio he-wrap tpl6" style="background-image:url('{{"/assets/img/productos/" | prepend: site.baseurl }}{{ project.img }}')">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">
+                                    {{ project.title }}
+                                    <i class="fa fa-search"></i>
+                                </h3>
+                            </div>
+                        </div>     
+                    </div>
                 </div>
-            </div>
-         </a>
+             </a>
          </div>
         {% endfor %}
     </div>
